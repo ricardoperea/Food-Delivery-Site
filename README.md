@@ -1,6 +1,6 @@
 ## Description 📑
 
-Split landing page project.
+Food Delivery Site project.
 Created with HTML, CSS and JavaScript.
 
 ## Author ✒️
